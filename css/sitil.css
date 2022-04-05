@@ -1,0 +1,270 @@
+
+.govde
+{
+width:1000px;
+height:auto;
+margin-left:auto;
+margin-right:auto;	
+font-family:Verdana, Geneva, sans-serif;
+
+}
+.logo
+{
+	width:140px;
+	height:130px;	
+    float:left;
+	margin-bottom:10px;
+}
+.menudivi
+{width:750px;
+height:90px;
+float:left;
+margin-top:60px;
+margin-left:30px;
+}
+.menu
+{margin:0px;
+padding:0px;
+list-style-type:none;
+}
+.menu a
+{
+	width:180px;
+	height:50px;
+	text-decoration: none;
+	display: block;
+	color:#000;
+	text-align:center;
+	padding-left:15px;
+	font-weight:bold;
+	line-height:50px;
+	font-size:15px;
+	margin-right:40px;
+	
+}
+
+.menu li
+{float:left;}
+.menu li a:hover
+{color:#C00;}
+
+
+.haber
+{
+	width:800px;
+	height:450px;
+	clear:both;
+}
+.aktif
+{
+	
+	background-color:#C00;
+	
+	
+}
+.cop
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+	
+}
+.copyan
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:100px;
+	margin-left:50px;
+}
+
+table 
+{
+	width:300px;
+	height:300px;
+	font-size:25px;
+}
+tr
+{
+	text-align:center;
+	font-weight:bold;
+}
+.copdiv
+{
+	clear:both;
+	width:900px;
+	height:500px;
+	margin-top:50px;
+	border:4px solid #FC3;
+	border-radius:6px;
+}
+
+.temizlik
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+}
+.temizlikdiv
+{
+	clear:both;
+	width:900px;
+	height:500px;
+	margin-top:50px;
+	border:4px solid  #5D83C2;
+	border-radius:6px;
+}
+.temizlikyan
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:110px;
+	margin-left:50px;
+}
+.duyuru
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+}
+.duyurudiv
+{
+	clear:both;
+	width:900px;
+	height:700px;
+	margin-top:50px;
+	border:4px solid #424242;
+	border-radius:6px;
+}
+.duyuruyan
+{
+	width:300px;
+	height:300px;
+	float:left;
+	margin-top:200px;
+	margin-left:50px;
+}
+
+.iconekle
+{
+	width:900px;
+	height:200px;
+}
+.odemeyazısı
+	  {
+		width:930px;
+		height:30px;
+		clear:both;
+		line-height:30px;
+        text-align:center;
+		font-size:30px;  
+		 margin-top:20px;
+		 color:#C00;
+	  
+      }
+hr
+{
+	width:960px;
+	border:2px solid  #000000;
+	margin-right:150px;
+}
+ input[type=text] 
+ {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 2px solid ;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border: 2px solid ;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+}
+select {
+    width: 100px;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+	border: 2px solid ;
+	text-align:center;
+    
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid ;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+	border: 2px solid ;
+}
+textarea:focus
+{
+	
+ border: 3px solid #555;	
+	
+}
+
+.oturum
+	  {
+		margin-top:100px;
+		width:550px;
+		height:300px;
+		clear: both;
+		border:2px solid black;
+		margin-left:150px;
+	    padding:20px;
+        color:#C00;
+	   }
+.ekle
+{
+	width:150px;
+	height:300px;
+	float:left;
+	margin-right:50px;
+	margin-left:30px;
+	margin-top:50px;
+}
+.sil
+{
+	width:150px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+	margin-right:20px;
+}
+
+.listele
+{
+	width:150px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+	margin-left:50px;
+	
+}
+.sikayet
+{
+	width:150px;
+	height:300px;
+	float:left;
+	margin-top:50px;
+	margin-left:50px;
+}
+
+
+
